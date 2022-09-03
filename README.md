@@ -10,5 +10,5 @@ We are new company at Turkey
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<br>
-<strong>Static:</strong><br>
+<strong>Stats:</strong><br>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=StarWork-IT&show_icons=true&theme=radical)
